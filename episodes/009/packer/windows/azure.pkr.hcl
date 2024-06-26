@@ -4,7 +4,7 @@ source "azure-arm" "vm" {
   subscription_id = var.subscription_id
   tenant_id       = var.tenant_id
 
-  location                          = "West US"
+  location                          = "West US 3"
   managed_image_name                = "aztf-w2016"
   managed_image_resource_group_name = "rg-ep9-packer"
 

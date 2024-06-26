@@ -1,0 +1,8 @@
+
+export PKR_VAR_client_id=b05fc3c8-1d2a-4e15-8569-c57e54abf21e
+export PKR_VAR_client_secret=T5l8Q~BZ8pgJ8mpHoJxxkBAJE9-v4TkH8CCVic5l
+export PKR_VAR_subscription_id=d98eea7e-8439-4117-bd2c-515ee8aa45cc
+export PKR_VAR_tenant_id=c70b3494-8ab3-439c-a628-b69163d352a8
+
+
+packer build ./
